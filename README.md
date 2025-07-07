@@ -54,7 +54,9 @@ if __name__ == "__main__":
 ##Screenshots:
 ![Screenshot (44)](https://github.com/user-attachments/assets/5f9f4c55-f422-4ea1-9ab5-014f6294ead0)
 
+![Screenshot (45)](https://github.com/user-attachments/assets/e6de8db9-ded0-4031-b6ef-ac51d220465d)
 
+![Screenshot (46)](https://github.com/user-attachments/assets/a6d10841-dda5-4aa4-8e7e-e2f755604b09)
 
 
 
