@@ -50,6 +50,9 @@ except ValueError:
 if __name__ == "__main__":
     main()
    - Ensures the script runs only when executed directly, not when imported as a module.
+     
+##Screenshots:
+![Screenshot (44)](https://github.com/user-attachments/assets/5f9f4c55-f422-4ea1-9ab5-014f6294ead0)
 
 
 
