@@ -1,5 +1,7 @@
 # 🧮 Basic Console Calculator
+A simple, interactive console-based calculator. It also allows users to perform basic arithmetic operations.
 
+   
 # Basic calculator uses:
 - Add
 - Subtract
@@ -9,6 +11,7 @@
 - 1 Enter first number: 5
 - Enter second number: 3
 - Result: 8.0
+  
 
 
 
